@@ -1,1 +1,2 @@
-this is test for git
+this is a test for git
+good morning!
